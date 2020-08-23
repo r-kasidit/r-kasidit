@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Kasidit Rison
+ฉันชื่อ กษิดิศ ริสอน
+เหล่านี้คือโปรเจกที่ฉันกำลังทำ ได้แก่
+-1
+-2
+-3
+
 <!--
 **r-kasidit/r-kasidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
