@@ -17,7 +17,7 @@ My name is Kasidit Rison
  - ผลงานที่เกี่ยวข้องกับ AI และ machine learning
     - Python-[assignment ของ คอร์ส mathematics for machine learning-เรียนจบเเล้ว](https://github.com/r-kasidit/mathematics-for-machine-learning)
     - Python-[assignment ของ คอร์ส deeplearning.ai-กำลังเรียน](https://github.com/r-kasidit/deeplearning.ai-coursera)
-    -
+    - R-[interpretable species distribution model from random forest algorithm](https://github.com/r-kasidit/random-projects-in-R/blob/master/interpretable_sdm.ipynb)
     -
   
  - ผลงานที่เกี่ยวข้องกับการวิเคราะห์ข้อมูลโดยใช้ R, Python และ
