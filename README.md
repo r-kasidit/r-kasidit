@@ -7,11 +7,12 @@ My name is Kasidit Rison
 ---
 
 - โปรเจดที่กำลังดำเนินการ
+  
   [บล๊อกส่วนตัว](https://r-kasidit.netlify.app/)
     - ตั้งใจจะเขียนเกี่ยวกับการวิเคราะห์ข้อมูล สถิติ และทฤษฏีทางนิเวศวิทยาต่าง ๆ (ตอนนี้ยังมีเเค่ 1 บทความ :sob:)
     - deploy วันที่ 31 สิงหาคม 2563
     - ใช้ gatsby เป็นหลัก โคลนโปรเจกเริ่มต้นมาจาก [gatsby-starter-blog](https://jamstackthemes.dev/theme/gatsby-starter-blog/)
-    - [repo ของบล๊อก](https://github.com/r-kasidit/r-kasidit-blog)
+    - [repository ของบล๊อก](https://github.com/r-kasidit/r-kasidit-blog)
     - ยังเเก้ปัญหา share กับ comment component ไม่ได้ :sob::sob::sob::sob::sob::sob::sob::sob::sob:
    
  - ผลงานที่เกี่ยวข้องกับ AI และ machine learning
@@ -20,8 +21,8 @@ My name is Kasidit Rison
     - R-[interpretable species distribution model from random forest algorithm](https://github.com/r-kasidit/random-projects-in-R/blob/master/interpretable_sdm.ipynb)
     -
   
- - ผลงานที่เกี่ยวข้องกับการวิเคราะห์ข้อมูลโดยใช้ R, Python และ
+ - ผลงานที่เกี่ยวข้องกับการวิเคราะห์ข้อมูลโดยใช้ R 
     - R [โค๊ดการวิเคราะห์ทางสถิติของวิทยานิพนธ์ ปริญญาโท](https://github.com/r-kasidit/R-code-in-Msc)
         - เนื่องจากข้อมูลยังไม่ได้ถูกตีพิมพ์ ดังนั้นจะไม่กราฟเเสดงผลและข้อมูล แต่ผมพลอตการกระจาย การรวมกลุ่มของขอ้มูลคร่าว ๆ ใน[notebookนี้](https://github.com/r-kasidit/R-code-in-Msc/blob/master/Exploratory%20data%20analysis%20.ipynb)
-    - 
+    - R [repository นี้](https://github.com/r-kasidit/random-projects-in-R)
 
