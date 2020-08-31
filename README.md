@@ -7,15 +7,19 @@ My name is Kasidit Rison
 ---
 
 - โปรเจดที่กำลังดำเนินการ
-  [personal blog about ecological knowledge and analyses](https://github.com/r-kasidit/r-kasidit-blog)
-  > It has not deployed yet, but soon... you are able to observe the progress in README of the repo
+  [บล๊อกส่วนตัว](https://r-kasidit.netlify.app/)
+    - ตั้งใจจะเขียนเกี่ยวกับการวิเคราะห์ข้อมูล สถิติ และทฤษฏีทางนิเวศวิทยาต่าง ๆ (ตอนนี้ยังมีเเค่ 1 บทความ :sob:)
+    - deploy วันที่ 31 สิงหาคม 2563
+    - ใช้ gatsby เป็นหลัก โคลนโปรเจกเริ่มต้นมาจาก [gatsby-starter-blog](https://jamstackthemes.dev/theme/gatsby-starter-blog/)
+    - [repo ของบล๊อก](https://github.com/r-kasidit/r-kasidit-blog)
    
  - ผลงานที่เกี่ยวข้องกับ AI และ machine learning
-    - repo1
-    - repo2
+    - Python-[assignment ของ คอร์ส mathematics for machine learning-เรียนจบเเล้ว](https://github.com/r-kasidit/mathematics-for-machine-learning)
+    - Python-[assignment ของ คอร์ส deeplearning.ai-กำลังเรียน](https://github.com/r-kasidit/deeplearning.ai-coursera)
+    -
+    -
   
  - ผลงานที่เกี่ยวข้องกับการวิเคราะห์ข้อมูลโดยใช้ R, Python และ
-    - Python-[assignment ของ คอร์ส mathematics for machine learning-completed](https://github.com/r-kasidit/mathematics-for-machine-learning)
-    - Python-[assignment ของ คอร์สdeeplearning.ai-ongoing](https://github.com/r-kasidit/deeplearning.ai-coursera)
-    - R
+    - R [โค๊ดการวิเคราะห์ทางสถิติของทีสีส ปริญญาโท](https://github.com/r-kasidit/R-code-in-Msc)
+    - 
 
