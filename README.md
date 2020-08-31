@@ -21,6 +21,7 @@ My name is Kasidit Rison
     -
   
  - ผลงานที่เกี่ยวข้องกับการวิเคราะห์ข้อมูลโดยใช้ R, Python และ
-    - R [โค๊ดการวิเคราะห์ทางสถิติของทีสีส ปริญญาโท](https://github.com/r-kasidit/R-code-in-Msc)
+    - R [โค๊ดการวิเคราะห์ทางสถิติของวิทยานิพนธ์ ปริญญาโท](https://github.com/r-kasidit/R-code-in-Msc)
+        - เนื่องจากข้อมูลยังไม่ได้ถูกตีพิมพ์ ดังนั้นจะไม่กราฟเเสดงผลและข้อมูล แต่ผมพลอตการกระจาย การรวมกลุ่มของขอ้มูลคร่าว ๆ ใน[notebookนี้](https://github.com/r-kasidit/R-code-in-Msc/blob/master/Exploratory%20data%20analysis%20.ipynb)
     - 
 
