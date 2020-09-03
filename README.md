@@ -11,7 +11,7 @@ My name is Kasidit Rison
   [บล๊อกส่วนตัว](https://r-kasidit.netlify.app/)
     - ตั้งใจจะเขียนเกี่ยวกับการวิเคราะห์ข้อมูล สถิติ และทฤษฏีทางนิเวศวิทยาต่าง ๆ (ตอนนี้ยังมีเเค่ 1 บทความ :sob:)
     - deploy วันที่ 31 สิงหาคม 2563
-    - ใช้ gatsby เป็นหลัก โคลนโปรเจกเริ่มต้นมาจาก [gatsby-starter-blog](https://jamstackthemes.dev/theme/gatsby-starter-blog/)
+    - ใช้ gatsby.js
     - [repository ของบล๊อก](https://github.com/r-kasidit/r-kasidit-blog)
  
    
