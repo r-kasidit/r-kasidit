@@ -13,7 +13,7 @@ My name is Kasidit Rison
     - deploy วันที่ 31 สิงหาคม 2563
     - ใช้ gatsby เป็นหลัก โคลนโปรเจกเริ่มต้นมาจาก [gatsby-starter-blog](https://jamstackthemes.dev/theme/gatsby-starter-blog/)
     - [repository ของบล๊อก](https://github.com/r-kasidit/r-kasidit-blog)
-    - ยังเเก้ปัญหา share กับ comment component ไม่ได้ :sob::sob::sob::sob::sob::sob::sob::sob::sob:
+ 
    
  - ผลงานที่เกี่ยวข้องกับ AI และ machine learning
     - Python-[assignment ของ คอร์ส mathematics for machine learning-เรียนจบเเล้ว](https://github.com/r-kasidit/mathematics-for-machine-learning)
