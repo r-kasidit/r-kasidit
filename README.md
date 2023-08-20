@@ -15,7 +15,9 @@ My name is Kasidit Rison
     - Demo website ภาควิชา (ใช้ Hugo) [go to link](https://biozoo-web.web.app/) - deploy เพื่อนำเสนอรูปแบบที่จะทำ แต่ไม่ผ่าน :sob:
   - Python
     - Python-[assignment ของ คอร์ส mathematics for machine learning](https://github.com/r-kasidit/mathematics-for-machine-learning) [3/3-เรียนจบเเล้ว]
-    - Class of ecology [draft ยังไม่ได้เอาลง github]
+    - Class of ecology laboratory
+      - lab2 [มาตรวัตและสถิติ](https://colab.research.google.com/drive/1N-yuAgs1yvftvpFVoystMRiufiKytjlD?usp=sharing)
+      - lab5 [ปฎิสัมพันธ์ระหว่างสิ่งมีชีวิต](https://colab.research.google.com/drive/1znBpk5-lEcIIGIh-XLn-oZUd3yqOSUhE?usp=sharing)
   - R
     - R [โค๊ดการวิเคราะห์ทางสถิติของวิทยานิพนธ์ ปริญญาโท](https://github.com/r-kasidit/R-code-in-Msc)
      - เนื่องจากข้อมูลยังไม่ได้ถูกตีพิมพ์ ดังนั้นจะไม่กราฟเเสดงผลและข้อมูล แต่ผมพลอตการกระจาย การรวมกลุ่มของขอ้มูลคร่าว ๆ ใน[notebookนี้](https://github.com/r-kasidit/R-code-in-Msc/blob/master/Exploratory%20data%20analysis%20.ipynb)
