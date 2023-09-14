@@ -12,7 +12,6 @@ My name is Kasidit Rison
   - web app
     - Personal blog (ใช้ gatsby)[go to link](https://r-kasidit.netlify.app/), ตั้งใจจะเขียนเกี่ยวกับการวิเคราะห์ข้อมูล สถิติ และทฤษฏีทางนิเวศวิทยาต่าง ๆ (ตอนนี้ยังมีเเค่ 1 บทความ :sob:), deploy วันที่ 31 สิงหาคม 2563 ตอนนี้ไม่ได้เขียนอะไรเพิ่มเติม ยังไม่แน่ในเเนวทางของบล๊อก
     - BSGC website [go to link](http://bsgc.sc.chula.ac.th) 
-    - NPRCT-CU Symposium2023 [go to link](https://nprct-cu-symposium2023.org)
     - Demo website ภาควิชา (ใช้ Hugo) [go to link](https://biozoo-web.web.app/) - deploy เพื่อนำเสนอรูปแบบที่จะทำ แต่ไม่ผ่าน :sob:
   - Python
     - Python-[assignment ของ คอร์ส mathematics for machine learning](https://github.com/r-kasidit/mathematics-for-machine-learning) [3/3-เรียนจบเเล้ว]
