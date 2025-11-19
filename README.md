@@ -3,7 +3,7 @@
 My name is Kasidit Rison
 - 🔭 I’m currently working on ...Ph.D in Zoology at Chulalongkorn University, Thailand
 - 🌱 I’m currently learning ...statistical analyses in ecology 
-- 📫 How to reach me: [r.kasidit@outlook.com](r.kasidit@outlook.com), [rkasidit47@gmail.com](rkasidit47@gmail.com)
+- 📫 How to reach me: [rkasidit47@gmail.com](rkasidit47@gmail.com)
 - tel: 097-1091885
 
 ---
